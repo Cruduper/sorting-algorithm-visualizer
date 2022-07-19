@@ -37,9 +37,11 @@ This web application was created to help users visualize the various differences
 
 <br>
 
+Before sort:
 <img width="1384" alt="Screen Shot 2022-02-16 at 3 36 47 PM" src="https://user-images.githubusercontent.com/86761275/154376185-8c32a941-fc32-4421-94f7-6e53655408bc.png">
 <br>
 <br>
+After sort:
 <img width="1349" alt="Screen Shot 2022-02-16 at 3 37 27 PM" src="https://user-images.githubusercontent.com/86761275/154376216-b6488096-c21a-4d04-bdd6-436d3abe77cf.png">
 
 <br>
