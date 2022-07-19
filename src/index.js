@@ -9,6 +9,7 @@ import { bubbleSort } from "./js/bubble-sort.js";
 import { mergeSort } from "./js/merge-sort.js";
 import { quickSort } from "./js/quick-sort.js";
 
+
 function clearFields() {
   array = [];
   $("#bars").html("");

@@ -1,12 +1,20 @@
 # Sorting Algorithm Visualizer
 
-#### Web application designed to visualize various sorting algorithms
+#### Web application designed to show a visualization of the sorting action of the 5 different computer science sorting algorithms defined in the "Computer Science" section of the Epicodus programming bootcamp. There is selectable sorting speed and array size, and ability to create new arrays to sort. Arrays have elements with randomly generated magnitudes, with magnitude visualized by height. After pressing the "run" button, an array will be sorted so that elements end up sorted by magnitude in ascending order. 
 
-#### By Ryan Spencer, Andy Plymate, Zachary Green, Will Greenberg, Eric Crudup
+#### By Ryan Spencer, Andy Plymate, Zachary Green, Will Greenberg, Eric Crudup  
+
+<br>
+
+### _Link to GH-Pages **live deployment**_
+
+- https://cruduper.github.io/sorting-algorithm-visualizer/
 
 ### _Link to GitHub Repository_
 
-- https://github.com/ryan-spencer1220/sorting-algorithm-visualizer
+- https://github.com/Cruduper/sorting-algorithm-visualizer
+
+<br>
 
 ## Technologies Used
 
@@ -21,12 +29,21 @@
 - JavaScript
 - jQuery
 
+<br>
+
 ## Description
 
 This web application was created to help users visualize the various differences between common sorting algortithms. Users can adjust the size of the array, the speed the algorithm sorts the array, and the particular algorithm they would like to visualize. Each visualization is designed to help users understand the differences between bubble sort, selection sort, insertion sort, quick sort, and merge sort. After the visualization is complete, users can select a new sorting algorithm, generate a new array, or read a small description outlining the current sorting algorithm.
 
+<br>
+
 <img width="1384" alt="Screen Shot 2022-02-16 at 3 36 47 PM" src="https://user-images.githubusercontent.com/86761275/154376185-8c32a941-fc32-4421-94f7-6e53655408bc.png">
+<br>
+<br>
 <img width="1349" alt="Screen Shot 2022-02-16 at 3 37 27 PM" src="https://user-images.githubusercontent.com/86761275/154376216-b6488096-c21a-4d04-bdd6-436d3abe77cf.png">
+
+<br>
+<br>
 
 ## Setup/Installation Requirements
 
@@ -51,11 +68,15 @@ This web application was created to help users visualize the various differences
 3. _Once built, you can open dist/index.html in your browser._
 4. _To run a server view of the project, you can type the command "npm start" to witness and inspect any changes you wish to make in real time._
 
+<br>
+
 ## Known Bugs
 
 - No known bugs
 
-### License
+<br>
+
+## License
 
 This project is licensed under the [MIT License](https://opensource.org/licenses/MIT). Copyright (C) 2022 Ryan Spencer. All Rights Reserved.
 
