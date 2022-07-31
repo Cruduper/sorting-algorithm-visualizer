@@ -6,11 +6,11 @@
 
 <br>
 
-### _Link to GH-Pages **live deployment**_
+## _Link to GH-Pages **live deployment**_
 
 - https://cruduper.github.io/sorting-algorithm-visualizer/
 
-#### _Link to GitHub Repository_
+#### _GitHub Repository_
 
 - https://github.com/Cruduper/sorting-algorithm-visualizer
 
