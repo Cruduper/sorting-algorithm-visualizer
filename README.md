@@ -10,7 +10,7 @@
 
 - https://cruduper.github.io/sorting-algorithm-visualizer/
 
-### _Link to GitHub Repository_
+#### _Link to GitHub Repository_
 
 - https://github.com/Cruduper/sorting-algorithm-visualizer
 
